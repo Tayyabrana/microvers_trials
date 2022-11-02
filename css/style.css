@@ -20,7 +20,7 @@ body{
     position: fixed;
     background-color: rgb(29, 135, 255);
     color: rgb(59, 62, 231);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Geneva, sans-serif;
     top: 0;
     left: 0;
     padding: 20px;
